@@ -25,10 +25,11 @@ app.get('/notes', (req, res) =>
 );
 
 app.get('*', (req, res) =>
-    res.sendFile(path.join(__dirname, 'public/index.html'))
+  res.sendFile(path.join(__dirname, 'public/index.html'))
 );
 
-app.listen(PORT, () =>
-    console.info(`Example app listening at http://localhost:${PORT}`)
-);
 
+
+app.listen(port, "0.0.0.0", function () {
+ console.info(`Example app listening at http://localhost:${PORT}`)
+});
