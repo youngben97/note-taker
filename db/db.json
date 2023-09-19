@@ -1,17 +1,7 @@
 [
     {
-        "title": "butt",
-        "text": "butts",
-        "id": "d76cfaf7-ac4d-4298-8956-f82489cad58c"
-    },
-    {
-        "title": "help me help me",
-        "text": "heeeeeelp",
-        "id": "d8ee5b7f-e442-49ff-ba04-205751a37dda"
-    },
-    {
-        "title": "i did it",
-        "text": "holy crap!",
-        "id": "dced15c2-9984-46fb-8bab-739102d6f75f"
+        "title": "Enter a note!",
+        "text": "Enter a title, a body, and click the save button.",
+        "id": "ec19da65-764f-449c-a5b4-5a4aff362df8"
     }
 ]
