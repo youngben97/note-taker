@@ -3,7 +3,7 @@ const path = require('path');
 
 const api = require('./routes/index');
 
-const PORT = process.env.PORT || 3001;
+const port = process.env.PORT || 3001;
 
 const app = express();
 
@@ -30,6 +30,6 @@ app.get('*', (req, res) =>
 
 
 
-app.listen(port, "0.0.0.0", function () {
- console.info(`Example app listening at http://localhost:${PORT}`)
+app.listen(port, "0.0.0.0", function() {
+ console.info(`App listening at http://localhost:${port}`)
 });
