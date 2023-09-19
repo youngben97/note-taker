@@ -13,7 +13,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contribution](#contribution)
+  - [Credits](#credits)
   - [Test](#test)
   - [Questions](#questions)
 
@@ -38,10 +38,10 @@
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  <a id="contribution"></a>
-  ## How to Contribute
+  <a id="credits"></a>
+  ## Credits
 
-  N/A
+  Starter code: https://github.com/coding-boot-camp/miniature-eureka
 
   <a id="test"></a>
   ## Test
